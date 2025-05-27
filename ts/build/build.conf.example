@@ -177,7 +177,7 @@ package autonet              # Legacy automatic network configuration
 ############################
 # End-user applications and software.
 
-package chrome               # Google Chrome browser
+#package chrome               # Google Chrome browser
 #package firefox              # Mozilla Firefox browser
 #package filezilla            # FileZilla FTP client
 #package meld                 # Visual diff and merge tool
